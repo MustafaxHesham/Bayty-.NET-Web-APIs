@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "BaRagX0p8EHwL3gCF8VBuEW9H1XW7oRGdIROypq7uH8=",
+  "Source": "BaytyAPIs",
+  "BasePath": "_content/BaytyAPIs",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BaytyAPIs\\wwwroot",
+      "Source": "BaytyAPIs",
+      "ContentRoot": "D:\\GraduationProject\\GraduationProject\\AkaratAPIs\\wwwroot\\",
+      "BasePath": "_content/BaytyAPIs",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\GraduationProject\\GraduationProject\\AkaratAPIs\\wwwroot\\Images\\Users\\noimage.png",
+      "SourceId": "BaytyAPIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\GraduationProject\\GraduationProject\\AkaratAPIs\\wwwroot\\",
+      "BasePath": "_content/BaytyAPIs",
+      "RelativePath": "Images/Users/noimage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\Users\\noimage.png"
+    }
+  ]
+}
